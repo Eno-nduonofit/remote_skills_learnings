@@ -1,1 +1,3 @@
-This file is created by Faculty manager
+This file is created by Faculty manager.
+
+Thank you Faculty Manager for creating a file.
